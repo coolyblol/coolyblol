@@ -14,7 +14,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=footer" width="100%"/>
 </p>
-
-
-<!--
-**thanks https://github.com/reallytyler <3**
