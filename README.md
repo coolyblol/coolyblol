@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=coolyblol&color=0000FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" /> <img src="https://img.shields.io/github/followers/coolyblol?color=0000FF&style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
 
-`A passionate developer; excelling in Minecraft SMP Development, while also learning development for multi-gamemode networks for Minecraft.`
+`A passionate developer; excelling in creating advanced Minecraft SMPs consisting of various feaures while keeping things clean and usable. Currently, also learning development for multi-gamemode networks for Minecraft.`
 
 ## 📊 Skills
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
