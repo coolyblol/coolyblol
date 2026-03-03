@@ -11,6 +11,18 @@
 
 </div>
 
+---
+
+### 📊 Github Statistics
+
+[![coolyblol's GitHub stats-Dark](./profile/stats-dark.svg#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![coolyblol's GitHub stats-Light](./profile/stats.svg#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](./profile/top-langs-dark.svg#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](./profile/top-langs.svg#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=footer" width="100%"/>
 </p>
