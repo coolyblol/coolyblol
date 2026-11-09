@@ -9,7 +9,7 @@
 ## Skills
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)
-[![HTML](https://skillicons.dev/icons?i=html)]((https://html.spec.whatwg.org))
+[![HTML](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)
 
 ## Socials
