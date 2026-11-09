@@ -4,14 +4,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=coolyblol&color=0000FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" /> <img src="https://img.shields.io/github/followers/coolyblol?color=0000FF&style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
 
-`A passionate developer; excelling in creating advanced Minecraft SMPs consisting of various features while keeping things clean and usable. Currently, also learning development for multi-gamemode networks for Minecraft.`
+`A passionate developer; excelling in creating advanced Minecraft Economy servers — consisting of various features while keeping things clean and usable. At the moment, learning development for multi-gamemode networks for Minecraft and vibe-coding websites for fun.`
 
-## 📊 Skills
+## Skills
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)
 
-## 💬 Socials
+## Socials
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/715181893687181423)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/coolyblol)
 
